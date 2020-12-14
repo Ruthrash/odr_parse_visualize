@@ -1,0 +1,6 @@
+[submodule "pyeulerspiral"]
+	path = pyeulerspiral
+	url = https://github.com/stefan-urban/pyeulerspiral.git
+[submodule "pyopendriveparser"]
+	path = pyopendriveparser
+	url = https://github.com/fiefdx/pyopendriveparser.git
