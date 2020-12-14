@@ -47,11 +47,11 @@ for road in roadNetwork.roads:
 
 gviz_.visualize() 
 
-for road in roadNetwork.roads:
+#for road in roadNetwork.roads:
 	#if(road.link.predecessor.elementType =="road" and road.link.predecessor.elementId ==9 or road.link.successor.elementType =="road" and road.link.successor.elementId ==9 ):
-	if(road.junction != None):
-		print(road.name)
-		print(road.junction)
+	#if(road.junction != None):
+		#print(road.name)
+		#print(road.junction)
 
 #for junc in roadNetwork.roads:
 #	print(junc.name)
